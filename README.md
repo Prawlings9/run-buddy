@@ -1,6 +1,6 @@
-# run-buddy
+# Run Buddy
 
-##Purpose
+## Purpose
 A websie that offers fitness training services.
 
 ## Built With
